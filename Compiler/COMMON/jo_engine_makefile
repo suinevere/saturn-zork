@@ -234,7 +234,7 @@ OBJS = $(SRCS:.c=.o)
 ifeq ($(OS), Windows_NT)
 	CC=$(COMPILER_DIR)/WINDOWS/bin/sh-elf-gcc.exe
 	CONV=$(COMPILER_DIR)/WINDOWS/bin/sh-elf-objcopy.exe
-	CUE_MAKER=JoEngineCueMaker.exe
+	CUE_MAKER=$(COMPILER_DIR)/WINDOWS/bin/JoEngineCueMaker.exe
 else
 	CC=$(COMPILER_DIR)/LINUX/bin/sh-none-elf-gcc-8.2.0
 	CONV=$(COMPILER_DIR)/LINUX/bin/sh-none-elf-objcopy
@@ -243,7 +243,7 @@ else
 endif
 
 ASSETS_DIR=./cd
-MKISOFS=mkisofs
+MKISOFS=$(COMPILER_DIR)/WINDOWS/bin/mkisofs.exe
 RM = rm -rf
 
 # remove the comment below when nosgl.linker is fixed

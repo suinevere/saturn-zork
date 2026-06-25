@@ -31,3 +31,5 @@ Emulators/SSF/Setting/*
 /Projects/*.7z
 /Emulators/SSF/Backup/InternalBackup/*.bin
 /Emulators/YabaSanshiro/debug.txt
+/.idea/vcs.xml
+/.idea/editor.xml

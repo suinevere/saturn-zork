@@ -507,7 +507,7 @@ int GetNounPhraseToObj_Obj(int i);
 void GetVerbToAction_Words(int i, int *w1, int *w2);
 int GetVerbToAction_Action(int i);
 uint8_t ReadWordList(uint8_t mode);
-int ReadWriteSaveState(FILE *f, int mode);
+int ReadWriteSaveState(int mode);
 void SetRandomSeed(uint32_t seed);
 uint32_t GetRandom(uint32_t range);
 
@@ -515,7 +515,7 @@ uint32_t GetRandom(uint32_t range);
 void PrintBlockMsg(int newroom);
 void PrintObjectDesc(int obj, int desc_flag);
 void PrintContents(int obj, const char *heading, int print_empty);
-void GetWords(void);
+void GetWords(unsigned char prompt);
 unsigned char MatchCurWordIndex(int i);
 void PrintWord(unsigned int w, int capital_flag);
 int IsObjVisible(int obj);

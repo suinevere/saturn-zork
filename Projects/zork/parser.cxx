@@ -703,6 +703,9 @@ int GetLoadSaveFilename(char *filename, int mode, int *slot)
 
 #ifdef __AVR_ATmega2560__
   exists = (CheckSaveSignature(*slot) != 0);
+#elif defined(COMPILE_SATURN)
+  (void)filename;
+  exists = 0; // no file system for saves on Saturn
 #else
   {
     int len = 0;
@@ -749,6 +752,10 @@ int GetLoadSaveFilename(char *filename, int mode, int *slot)
 // returns 1 if successful
 int DoSave(void)
 {
+#ifdef COMPILE_SATURN
+  PrintLine("Saving is not available in this version.");
+  return 0;
+#else
   char filename[80];
   int slot, error = 1;
 
@@ -762,6 +769,7 @@ int DoSave(void)
     PrintLine("*** Save successful. ***");
 
   return (error == 0);
+#endif
 }
 
 
@@ -769,6 +777,10 @@ int DoSave(void)
 // returns 1 if successful
 int DoRestore(void)
 {
+#ifdef COMPILE_SATURN
+  PrintLine("Restoring is not available in this version.");
+  return 0;
+#else
   char filename[80];
   int slot, error = 1;
 
@@ -792,6 +804,7 @@ int DoRestore(void)
   }
 
   return (error == 0);
+#endif
 }
 
 //*****************************************************************************

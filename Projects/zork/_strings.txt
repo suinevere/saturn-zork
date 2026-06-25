@@ -1,0 +1,1159 @@
+|It takes a talented person_be killed while already dead. YOU are such a talent. Unfortunately, it takes a talented person_deal _ it. I am not such a talent. Sorry.
+Bad luck, huh?
+|    ****  _have died  ****|||
+_clearly are a suicidal maniac.  We don't allow psychotics in _cave, since they may harm other adventurers.  Your remains will be installed in _L_of _Liv_Dead, w_ _ fellow adventurers may gloat over them.
+As _take _ last breath, _feel relieved__ burdens. _feel_passes as _find _self before _gates_Hell, w_ _spirits jeer at __deny _entry.  Your senses are disturbed.  _objects in _dungeon appear indistinct, bleached_color, even unreal.||
+Now, let's take a look _... Well, _probably deserve another chance.  I can't quite fix _up completely, but _can't have everything.||
+You'll have_get out__boat first.
+|||||Oh, no! _have walked into _slaver_fangs_a lurk_grue!
+_have moved into a dark place.
+Inside _Barrow|As _enter _barrow, _door closes inexorably behind you. Around _it_dark, but ahead_an enormous cavern, brightly lit. Through its center runs a wide stream. Spann__stream_a small wooden footbridge, _beyond a path leads into a dark tunnel. Above _bridge, float_in _air,_a large sign. It reads:  All ye who st_before this bridge have completed a great _perilous adventure which has tested _ wit _courage. _have mastered _first part__ZORK trilogy. Those who pass over this bridge must be prepared_undertake an even greater adventure that will severely test _ skill _bravery!||_ZORK trilogy continues _ "ZORK II: _Wizard_Frobozz" _is completed in "ZORK III: _Dungeon Master."
+_window_closed.
+_door_nailed shut.
+_trap door_closed.
+_troll fends _off _ a menac_gesture.
+_grat_is closed.
+_east wall_solid rock.
+_cyclops doesn't look like he'll let _past.
+_would drown.
+Some invisible force prevents _from pass_through _gate.
+_cannot go down _out fractur_many bones.
+_won't be able_get back up__tunnel _are go_through when it gets__next room.||
+_trap door crashes shut, __hear someone barr_it.
+_haven't a prayer_gett__coffin down t_.
+_path_too narrow.
+_cannot enter in _ condition.
+_cannot fit through this passage _ that load.
+Only Santa Claus climbs down chimneys.
+Go_up empty-handed_a bad idea.
+_can't get up t_ _ what you're carrying.
+_room_full_water _cannot be entered.
+_are in _liv_room. T__a doorway__east
+. To _west_a cyclops-shaped open_in an old wooden door, above which_some strange gothic lettering, 
+, a wooden door _ strange gothic letter_to _west, which appears_be nailed shut, 
+a trophy case, 
+_an open trap door at _ feet.
+_a closed trap door at _ feet.
+_a rug ly_beside an open trap door.
+_a large oriental rug in _center__room.
+_are behind _white house. A path leads into _forest__east. In one corner__house t__a small window which_
+open.
+slightly ajar.
+_are in _kitchen__white house. A table seems_have been used recently for _preparation_food. A passage leads__west _a dark staircase can be seen lead_upward. A dark chimney leads down _to _east_a small window which_
+This__attic. _only exit_a stairway lead_down.
+_are in a clearing, _ a forest surround__on all sides. A path leads south.
+T__an open grating, descend_into darkness.
+T__a grat_securely fastened into _ground.
+_are in a small room near _maze. T_ are twisty passages in _immediate vicinity.
+Above _is an open grat__ sunlight pour_in.
+Above _is a grat__ a skull-and-crossbones lock.
+_are stand_on _top__Flood Control Dam #3, which was quite a tourist attraction in times far distant. T_ are paths__north, south, _west, _a scramble down.
+_water level behind _dam_low: _sluice gates have been opened. Water rushes through _dam _downstream.
+_sluice gates are open, _water rushes through _dam. _water level behind _dam_still high.
+_sluice gates are closed. _water level in _reservoir_quite low, but _level_ris_quickly.
+_sluice gates on _dam are closed. Behind _dam, t_ can be seen a wide reservoir. Water_pour_over _top__now abandoned dam.
+T__a control panel _, on which a large metal bolt_mounted. Directly above _bolt_a small green plastic bubble
+ which_glow_serenely
+.
+_are in a long room,__north_which was formerly a lake. However, _ _water level lowered, t__merely a wide stream runn_through _center__room.
+_are in a long room. To _north_a large lake, too deep_cross. _notice, however, that _water level appears_be dropp_at a rapid rate. Before long, it might be possible_cross__other side from _.
+_are in a long room,__north_which_a wide area which was formerly a reservoir, but now_merely a stream. _notice, however, that _level__stream_ris_quickly _that before long it will be impossible_cross _.
+_are in a long room on _south shore_a large lake, far too deep _wide for crossing.
+T__a path along _stream__east or west, a steep pathway climb_southwest along _edge_a chasm, _a path lead_into a canyon__southeast.
+_notice that _water level __ris_rapidly. _currents are also becom_stronger. Stay__ seems quite perilous!
+_are on what used_be a large lake, but which_now a large mud pile. T_ are "shores"__north _south.
+_are on _lake. Beaches can be seen north _south. Upstream a small stream enters _lake through a narrow cleft in _rocks. _dam can be seen downstream.
+_are in a large cavernous room, _south_which was formerly a lake. However, _ _water level lowered, t__merely a wide stream runn_through t_.
+_are in a large cavernous area. To _south_a wide lake, whose water level appears_be fall_rapidly.
+_are in a cavernous area,__south_which_a very wide stream. _level__stream_ris_rapidly, _it appears that before long it will be impossible_cross__other side.
+_are in a large cavernous room, north_a large lake.
+T__a slimy stairway leav__room__north.
+This_a large room _ a ceil_which cannot be detected from _ground. T__a narrow passage from east_west _a stone stairway lead_upward.
+ _room_eerie in its quietness.
+ _room_deafeningly loud _ an undetermined rush_sound. _sound seems_reverberate from all__walls, mak_it difficult even_think.
+_are on _south edge_a deep canyon. Passages lead off__east, northwest _southwest. A stairway leads down.
+ _can hear _sound_flow_water from below.
+ _can hear a loud roar_sound, like that_rush_water, from below.
+This_a large, cold room whose sole exit_to _north. In one corner t__a machine which_reminiscent_a clothes dryer. On its face_a switch which_labelled "START". _switch does not appear_be manipulable by any human h_(unless _fingers are about 1/16 by 1/4 inch). On _front__machine_a large lid, which_
+closed.
+_are at _top_Aragain Falls, an enormous waterfall _ a drop_about 450 feet. _only path __on _north end.
+A solid rainbow spans _falls.
+A beautiful rainbow can be seen over _falls _to _west.
+_are stand_in an open field west_a white house, _ a boarded front door.
+ A secret path leads southwest into _forest.
+_are in a large square room _ tall ceilings. On _south wall_an enormous mirror which fills _entire wall. T_ are exits on _other three sides__room.
+Unfortunately, _mirror has been destroyed by _ recklessness.
+This_a large room _ a prominent doorway lead_to a down staircase. Above _is a large dome. Up around _edge__dome (20 feet up)_a wooden railing. In _center__room sits a white marble pedestal.
+A piece_rope descends from _rail_above, end_some five feet above _ head.
+_are at _periphery_a large dome, which forms _ceil_of another room below. Protect__from a precipitous drop_a wooden rail_which circles _dome.
+Hang_down from _rail_is a rope which ends about ten feet from _floor below.
+This room has an exit on _northwest, _a staircase lead_up.
+_east wall, previously solid, now has a cyclops-sized open_in it.
+_are about 10 feet above _ground nestled among some large branches. _nearest branch above _is above _ reach.
+a number_ghosts
+_way through _gate_barred by evil spirits, who jeer at _ attempts_pass.
+a bat
+In _corner__room on _ceil_is a large vampire bat who_obviously deranged _hold_his nose.
+A large vampire bat, hang_from _ceiling, swoops down at you!
+a troll
+A nasty-look_troll, brandish_a bloody axe, blocks all passages out__room.
+An unconscious troll_sprawled on _floor. All passages out__room are open.
+A pathetically babbl_troll__.
+A troll__.
+a thief
+T__a suspicious-look_individual, hold_a bag, lean_against one wall. He_armed _ a vicious-look_stiletto.
+T__a suspicious-look_individual ly_unconscious on _ground.
+a cyclops
+A cyclops, who looks prepared_eat horses (much less mere adventurers), blocks _staircase. From his state_health, __bloodstains on _walls, _gather that he_not very friendly, though he likes people.
+_cyclops_stand_in _corner, eye__closely. I don't think he likes _very much. He looks extremely hungry, even for a cyclops.
+_cyclops, hav_eaten _hot peppers, appears_be gasping. His enflamed tongue protrudes from his man-sized mouth.
+_cyclops_sleep_blissfully at _foot__stairs.
+a magic boat
+_are sitt_in a magic boat.
+T__a magic boat _.
+T__
+ (battery-powered) _.
+A battery-powered brass lantern_on _trophy case.
+ _.
+On _two ends__altar are burn_candles.
+(us_
+)|
+Us_
+that
+ would be futile.|
+_rope_already tied_it.
+_rope drops over _side _comes _in ten feet__floor.
+(to railing)
+Please specify what_tie it to.
+_can't tie _rope_that.
+Please specify what_tie it _.
+_can't tie _rail__ that.
+(from railing)
+_rope isn't tied_that.
+It_not tied_anything.
+_rope_now untied.
+_bolt won't turn _ _ best effort.
+You're not hold_it.
+_sluice gates close _water starts_collect behind _dam.
+_sluice gates open _water pours through _dam.
+At least one_those objects isn't visible _!
+Fix it _ what?
+By some miracle_Zorkian technology, _have managed_stop _leak in _dam.
+_don't have enough lung power_inflate it.
+You're not hold__pump.
+_boat must be on _ground_be inflated.
+_boat inflates _appears seaworthy.
+A tan label_ly_inside _boat.
+Inflat_it further would probably burst it.
+No chance. Some moron punctured it.
+_can't deflate _boat while you're in it.
+_boat must be on _ground_be deflated.
+_boat deflates.
+It's already deflated.
+Well done. _boat_repaired.
+You'll need_use something.
+_grat_is already locked.
+_can't lock it from this side.
+_grat_is locked.
+_grat_is already unlocked.
+_can't reach _lock from _.
+It's already on!
+It's on.
+It's already off!
+It's off.
+_can't use that.
+A burned-out lamp won't light.
+_lamp has already burned out.
+A match_already lit.
+I'm afraid that _have run out_matches.
+This room_drafty, __match goes out instantly.
+One__matches starts_burn.
+No match_lit.
+_match_out.
+Alas, t_'s not much left__candles. Certainly not enough_burn.
+You're not hold__candles.
+(_ _match)
+_should say what_light them _.
+You're not hold__match.
+_candles are already lit.
+_candles are lit.
+You're not hold__torch.
+_realize, just in time, that _candles are already lighted.
+_heat from _torch_so intense that _candles are vaporized.
+_have_light them _ someth_that's burning, _know.
+_candles are not lighted.
+_flame_extinguished.
+It's not clear how_turn it on _ _ bare hands.
+It seems that won't do.
+You're not hold__screwdriver.
+_machine doesn't seem_want_do anything.
+_machine comes_life (figuratively) _ a dazzl_display_colored lights _bizarre noises. After a few moments, _excitement abates.
+Digg__ _ hands_silly.
+_seem_be digg_a hole _.
+_hole_gett_deeper, but that's about it.
+_are surrounded by a wall_s_on all sides.
+_can see a scarab _ in _sand.
+_find noth_else.
+_hole collapses, smother_you.
+(_ water)
+Fill it _ what?
+_can't fill it _ that!
+T_'s no water _!
+_bottle_closed.
+_bottle_already full_water.
+_bottle_now full_water.
+_aren't hold_that!
+_can't reach him; he's on _ceiling.
+_seem unable_interact _ these spirits.
+How can _attack a spirit _ material objects?
+_sense someone nearby, but can't see them.
+Try_to attack 
+_self
+it
+ _ _ bare hands_suicidal.
+ _ that_suicidal.
+As _knife approaches its victim, _ mind_submerged by an overmaster_will. Slowly, _ h_turns, until _rusty blade_an inch from _ neck. _knife seems_s_as it savagely slits _ throat.
+_cyclops yawns _stares at _th_that woke him up.
+_should say what_light it _.
+_can't light it _ that!
+_have_light it _ someth_that's burning, _know.
+_must be joking.
+_cannot burn this door.
+_can't burn that!
+It catches fire. Unfortunately, _were in it at _time.
+_leaves burn, _so do you.
+It catches fire. Unfortunately, _were hold_it at _time.
+_leaves burn.
+In disturb__pile_leaves, a grat_is revealed.
+A boom_voice says "Wrong, cretin!" __notice that _have turned into a pile_dust. How, I can't imagine.
+It catches fire _is consumed.
+It's already burning.
+_nearly burn _ h_try_to extinguish _flame.
+Beside page 569, t__only one other page _ any legible print_on it. Most_it_unreadable, but _subject seems_be _banishment_evil. Apparently, certain noises, lights, _prayers are efficacious in this regard.
+_don't have any water.
+You'll have_open _bottle first.
+_need_pour it on something.
+_water cools _bell _is evaporated.
+_water evaporates before it gets close.
+It_extinguished.
+_water spills over it,__floor, _evaporates.
+_tube_closed.
+That would be futile.
+Oil it _ what?
+_can't oil it _ that!
+Hmm. It appears _tube contained glue, not oil. Turn__bolt won't get any easier....
+Dental hygiene_highly recommended, but I'm not sure what _want_brush them _.
+A nice idea, but _ that?
+Well, _seem_have been brush__ teeth _ some sort_glue. As a result, _ mouth gets glued together (_ _ nose) __die_respiratory failure.
+Please specify what_tie him _.
+_can't tie him _ that!
+_cannot tie _cyclops, though he_fit_be tied.
+Your attempt_tie up _
+ awakens him.
+_
+ struggles __cannot tie him up.
+_cyclops says "Mmm Mmm. I love hot peppers! But oh, could I use a drink. Perhaps I could drink _blood_that thing."  From _gleam in his eye, it could be surmised that _are "that thing".
+_cyclops refuses _empty bottle.
+_cyclops apparently_not thirsty _refuses _ generous offer.
+_cyclops takes _bottle, checks that it's open, _drinks _water. A moment later, he lets out a yawn that nearly blows _over, _then falls fast asleep (what did _put in that drink, anyway?).
+He's asleep.
+_cyclops may be hungry, but t__a limit.
+_cyclops_not so stupid as_eat THAT!
+_can't see him, but he could be nearby.
+Your proposed victim suddenly recovers consciousness.
+_thief takes his stiletto _salutes __ a small nod_his head.
+_thief_taken aback by _ unexpected generosity, but accepts it _stops_admire its beauty.
+_thief places it in his bag _thanks _politely.
+_unconscious troll ignores _ gift.
+_troll scratches his head in confusion, then takes _axe.
+_troll, who_not overly proud, graciously accepts _gift
+ _eats it hungrily. Poor troll, he dies from an internal hemorrhage _his carcass disappears in a sinister black fog.
+ and, be_for _moment sated, throws it back. Fortunately, _troll has poor control, _it falls__floor. He does not look pleased.
+ _not hav__most discriminat_tastes, gleefully eats it.
+_lamp has smashed into _floor, __light has gone out.
+Your rather indelicate handl_of _egg has caused it some damage, although _have succeeded in open_it.
+_bottle hits _far wall _shatters.
+It tumbles__ground.
+_miss.
+It drops out_sight into _chasm.
+It tumbles into _river _is seen no more.
+Haven't _done enough damage already?
+_have broken _mirror. I hope _have a seven years' supply_good luck handy.
+_troll, who_remarkably coordinated, catches it.
+"Do _think I'm as stupid as my father was?", he says, dodging.
+_evidently frightened _robber, though _didn't hit him. He flees
+, but _contents_his bag fall on _floor.
+_missed. _thief makes no attempt_take _knife, though it would be a fine addition__collection in his bag. He does seem angered by _ attempt.
+It's already open.
+With great effort, _open _window far enough_allow entry.
+It's already closed.
+_window closes (more easily than it opened).
+Hav_moved _carpet previously, _find it impossible_move it again.
+With a great effort, _rug_moved_one side__room, reveal__dusty cover_a closed trap door.
+With a great effort, _rug_moved_one side__room.
+_don't see that _!
+_door reluctantly opens_reveal a rickety staircase descend_into darkness.
+_door_locked from above.
+Okay.
+_door swings shut _closes.
+_door closes _locks.
+_basket_raised__top__shaft.
+_basket_lowered__bottom__shaft.
+Play_in this way _ _basket has no effect.
+_basket_at _other end__chain.
+T__a rumbl_sound _a stream_water appears_burst from _east wall__room (apparently, a leak has occurred in a pipe).
+_blue button appears_be jammed.
+_lights _in _room 
+shut off.
+come on.
+Click.
+_boat must be on _ground_be boarded.
+You're already in it!
+Oops! Someth_sharp seems_have slipped _punctured _boat. _boat deflates__sounds_hissing, sputtering, _cursing.
+You're not in it!
+_should l_before disembarking.
+Mov__leaves reveals nothing.
+_grat_is already open.
+_grat_opens.
+_grat_opens_reveal trees above you.
+A pile_leaves falls onto _ head _to _ground.
+_grat_is already closed.
+_bell suddenly becomes red hot _falls__ground. _wraiths, as if paralyzed, stop their jeer__slowly turn_face you. On their ashen faces, _expression_a long-forgotten terror takes shape.
+In _ confusion, _candles drop__ground (_they are out).
+Ding, dong.
+_canary chirps, slightly off-key, an aria from a forgotten opera. From out__greenery flies a lovely songbird. It perches on a limb just over _ head _opens its beak_sing. As it does so a beautiful brass bauble drops from its mouth, bounces off _top__ head, _lands glimmer_in _grass. As _canary winds down, _songbird flies away.
+_canary chirps blithely, if somewhat tinnily, for a short time.
+T__an unpleasant grind_noise from inside _canary.
+Suddenly, _rainbow appears_become solid and, I venture, walkable (I think _giveaway was _stairs _bannister).
+A shimmer_pot_gold appears at _end__rainbow.
+_rainbow seems_have become somewhat run-of-the-mill.
+_structural integrity__rainbow_severely compromised, leav__hang_in midair, supported only by water vapor. Bye.
+A dazzl_display_color briefly emanates from _sceptre.
+Fiddl__ that 
+doesn't seem_work.
+isn't notably helpful.
+has no effect.
+T__a rumble from deep _in _earth __room shakes.
+Each word__prayer reverberates through _hall in a deafen_confusion. As _last word fades, a voice, loud _commanding, speaks: "Begone, fiends!" A heart-stopp_scream fills _cavern, __spirits, sens_a greater power, flee through _walls.
+Commandment #12592||Oh ye who go about say_unto each:  "Hello sailor":|Dost thou know _magnitude_thy sin before _gods?|Yea, verily, thou shalt be ground between two stones.|Shall _angry gods cast thy body into _whirlpool?|Surely, thy eye shall be put out _ a sharp stick!|Even unto _ends__earth shalt thou wander and|Unto _l_of _dead shalt thou be sent at last.|Surely thou shalt repent_thy cunning.
+"WELCOME TO ZORK!||ZORK_a game_adventure, danger, _low cunning. In it _will explore some__most amaz_territory ever seen by mortals. No computer should be _out one!"
+|(Close cover before striking)||YOU too can make BIG MONEY in _excit_field_PAPER SHUFFLING!||Mr. Anderson_Muddle, Mass. says: "Before I took this course I was a lowly bit twiddler. Now _ what I learned at GUE Tech I feel really important _can obfuscate _confuse _ _best."||Dr. Blank had this_say: "Ten short days ago all I could look forward_was a dead-end job as a doctor. Now I have a promis_future _make really big Zorkmids."||GUE Tech can't promise these fantastic results_everyone. But when _earn _ degree from GUE Tech, _ future will be brighter.
+_map shows a forest _ three clearings. _largest clear_contains a house. Three paths leave _large clearing. One_these paths, lead_southwest,_marked "To Stone Barrow".
+  !!!!FROBOZZ MAGIC BOAT COMPANY!!!!||Hello, Sailor!||Instructions for use:||   To get into a body_water, say "Launch".|   To get_shore, say "Land" or _direction in which _want_maneuver _boat.||Warranty:||  This boat_guaranteed against all defects for a period_76 milliseconds from date_purchase or until first used, whichever comes first.||Warning:|   This boat_made_thin plastic.|   Good Luck!
+" Flood Control Dam #3||FCD#3 was constructed in year 783__Great Underground Empire_harness _mighty Frigid River. This work was supported by a grant_37 million zorkmids from _ omnipotent local tyrant Lord Dimwit Flathead _Excessive. This impressive structure_composed_370,000 cubic feet_concrete,_256 feet tall at _center, _193 feet wide at _top. _lake created behind _dam has a volume_1.7 billion cubic feet, an area_12 million square feet, _a shore line_36 thous_feet.|
+_construction_FCD#3 took 112 days from ground break_to _dedication. It required a work force_384 slaves, 34 slave drivers, 12 engineers, 2 turtle doves, _a partridge in a pear tree. _work was managed by a comm_team composed_2345 bureaucrats, 2347 secretaries (at least two_whom could type), 12,256 paper shufflers, 52,469 rubber stampers, 245,193 red tape processors, _nearly one million dead trees.|
+We will now point out some__more interest_features_FCD#3 as we conduct _on a guided tour__facilities:||        1) _start _ tour _ in _Dam Lobby. _will notice on _ right that....
+---> Frobozz Magic Gunk Company <---|   All-Purpose Gunk
+Congratulations!||_are _privileged owner_ZORK I: _Great Underground Empire, a self-contained _self-maintain_universe. If used _maintained in accordance _ normal operat_practices for small universes, ZORK will provide many months_trouble-free operation.
+_prayer_inscribed in an ancient script, rarely used today. It seems_be a philippic against small insects, absent-mindedness, __pick_up _dropp_of small objects. _final verse consigns trespassers__l_of _dead. All evidence indicates that _beliefs__ancient Zorkers were obscure.
+_engravings translate_"This space intentionally left blank."
+_engravings were incised in _liv_rock__cave wall by an unknown hand. They depict, in symbolic form, _beliefs__ancient Zorkers. Skillfully interwoven _ _bas reliefs are excerpts illustrat__major religious tenets_that time. Unfortunately, a later age seems_have considered them blasphemous _just as skillfully excised them.
+_aren't hold__egg.
+_egg_already open.
+_have neither _tools nor _expertise.
+I doubt _could do that _out damag_it.
+_egg_now open, but _clumsiness__ attempt has seriously compromised its esthetic appeal.
+_can't open it _ that!
+_tumble down _slide....||
+_gate_protected by an invisible force. It makes _ teeth ache_touch it.
+_can't fit through _crack.
+I can't see how_get in from _.
+You're already at _bottom.
+Don't _believe me? _mountains are impassable!
+_cliff_too steep for climbing.
+Your sword_glow__ a faint blue glow.
+Your sword_glow_very brightly.
+_don't see anyth_unusual.
+_match_burning.
+_matchbook isn't very interesting, except for what's written on it.
+_candles are 
+burning.
+out.
+_torch_burning.
+_thief_a slippery character _ beady eyes that flit back _forth. He carries, along _ an unmistakable arrogance, a large bag over his shoulder _a vicious stiletto, whose blade_aimed menacingly in _ direction. I'd watch out if I were you.
+_chests are all empty.
+_boards are securely fastened.
+_chain secures a basket _in _shaft.
+_chests are already open.
+_book_already open_page 569.
+As hard as _try, _book cannot be closed.
+_windows are boarded _can't be opened.
+_can't break _windows open.
+Sounds reasonable, but this isn't how.
+_bell_too hot_reach.
+They're greek_you.
+It's solid granite.
+Perhaps _should do that__basket.
+_chain_secure.
+Let's see, how many objects in a pair? Don't tell me, I'll get it.
+T_ are 69,105 leaves _.
+_lamp 
+has burned out.
+is on.
+is turned off.
+_cyclops_sleep_like a baby, albeit a very ugly one.
+A hungry cyclops_stand_at _foot__stairs.
+_house_a beautiful colonial house which_painted white. It_clear that _owners must have been extremely wealthy.
+_door_too heavy.
+_door won't budge.
+_coins are safely inside; t_'s no need_do that.
+_jewels are safely inside; t_'s no need_do that.
+Gett_close enough would be a good trick.
+_door cannot be opened.
+_have 
+no
+ match.
+ matches.
+You're not hold_that.
+Thank _very much. I was rather thirsty (from all this talking, probably).
+_have_be hold__bottle first.
+T_ isn't any water _.
+_rope isn't tied_anything.
+_mirror_broken into many pieces.
+T__an ugly person star_back at you.
+_can see 
+a clear area lead_towards a forest.
+what appears_be a kitchen.
+Underneath _rug_a closed trap door. As _drop _corner__rug, _trap door_once again concealed from view.
+_see noth_under it.
+Underneath _pile_leaves_a grating. As _release _leaves, _grat_is once again concealed from view.
+_see noth_under _leaves.
+_Frigid River flows under _rainbow.
+_chimney leads 
+down
+up
+ward, _looks climbable.
+_window_slightly ajar, but not enough_allow entry.
+It's open.
+T_ are lots_coins in t_.
+T_ are lots_jewels in t_.
+_aren't hold__tube.
+_tube_apparently empty.
+_viscous material oozes into _ hand.
+_basket_at _other end__shaft.
+_bag_underneath _thief, so one can't say what, if anything,_inside.
+_see darkness below.
+_see trees above you.
+It's clear _might be potable.
+_west wall_solid granite _.
+_east wall_solid granite _.
+It only SAYS "Granite Wall".
+_songbird_not _ but_probably nearby.
+Why not find _ brains?
+It's right _!
+It seems_be__west.
+It was _ just a minute ago....
+_cannot see _forest for _trees.
+T_'s noth_to read.
+_zorkmid__unit_currency__Great Underground Empire.
+_grue_a sinister, lurk_presence in _dark places__earth. Its favorite diet_adventurers, but its insatiable appetite_tempered by its fear_light. No grue has ever been seen by _light_day, _few have survived its fearsome jaws_tell _tale.
+_best way_find zorkmids_to go out _look for them.
+T__no grue _, but I'm sure t__at least one lurk_in _darkness nearby. I wouldn't let my light go out if I were you!
+Every so often _troll says something, probably uncomplimentary, in his guttural tongue.
+_thief says nothing, as _have not been formally introduced.
+_can hear his stomach rumbling.
+_pines __hemlocks seem_be murmuring.
+_can't hear _songbird now.
+From _?!?
+Can _walk on water vapor?
+You'll have_say which way...
+It's too wide_cross.
+_other side_a sheer rock cliff.
+It's too far_jump, _t_'s no bridge.
+_must perform _ceremony.
+_aren't equipped for an exorcism.
+_rug_too heavy_lift
+, but in try_to take it _have noticed an irregularity beneath it.
+It smells like coal gas in _.
+It smells_hot peppers.
+It smells as _would expect.
+Very good. Now _can go__second grade.
+Are _enjoy__self?
+Wheeeeeeeeee!!!!!
+Do _expect me_applaud?
+_should have looked before _leaped.
+In _movies, _ life would be pass_before _ eyes.
+Geronimo...
+That isn't visible _!
+_need_be more specific.
+Seriously?!
+This was not a very safe place_try jumping.
+In a feat_unaccustomed daring, _manage_l_on _ feet _out kill__self.||
+It_too big_jump over.
+That would be a good trick.
+T_'s noth_to sleep on.
+You're not aboard anything!
+_magic boat comes_a rest on _shore.||
+_are on _
+reservoir
+stream
+river
+, or have _forgotten?
+You're not in _boat!
+_can't launch it _.
+You're not on _water!
+_can l_either__north or _south.
+T__no safe land_spot _.
+_can l_either__east or _west.
+_acoustics__room change subtly.
+Echo echo...
+From _distance _sound_a lone trumpet_heard. _room becomes very bright __feel disembodied. In a moment, _brightness fades __find _self ris_as if from a long sleep, deep in _woods. In _distance _can faintly hear a songbird __sounds__forest.||
+Your prayers are not heard.
+If _pray enough, _ prayers may be answered.
+Compiled on 
+ @ 
+_are in perfect health.
+a light wound
+a serious wound
+several wounds
+serious wounds
+, which will be cured after 
+ move.
+ moves.
+_can 
+expect death soon.
+be killed by one more light wound.
+be killed by a serious wound.
+survive one serious wound.
+survive several wounds.
+_have been killed 
+once.
+twice.
+Wasn't he a sailor?
+No use talk_to him. He's fast asleep.
+_cyclops, hear__name_his father's deadly nemesis, flees _room by knock_down _wall on _east__room.
+Swimm_isn't usually allowed in _dungeon.
+Go jump in a lake!
+Noth_happens.
+Welcome_Zork I: _Great Underground Empire!|(c) 1980 by INFOCOM, Inc.|C port _parser (c) 2021 by Donnie Russell II|||
+_cyclops prefers eat_to mak_conversation.
+_spirits jeer loudly _ignore you.
+    Fweep!|    Fweep!|    Fweep!|    Fweep!|    Fweep!|    Fweep!
+_thief_a strong, silent type.
+_troll isn't much_a conversationalist.
+_need_be more specific about who _want_talk to.
+That person isn't visible _!
+_thief, be_temporarily incapacitated,_unable_acknowledge _ greet__ his usual graciousness.
+Unfortunately, _troll can't hear you.
+_need_specify who_talk to.
+Even such an action_beyond _ capabilities.
+You're dead! How can _think__ score?
+_are dead.
+Might as well. You've got an eternity.
+_need no light_guide you.
+Your h_passes through its object.
+All such attacks are vain in _ condition.
+_have no possessions.
+_room looks strange _unearthly
+ _objects appear indistinct.
+Although t__no light, _room seems dimly illuminated.
+_can't even do that.
+...
+_cyclops doesn't take kindly_be_grabbed.
+Once _got him, what would _do _ him?
+_troll spits in _ face, grunt_"Better luck next time" in a rather barbarous accent.
+It_far too large_carry.
+_trophy case_securely fastened__wall.
+It_securely anchored.
+_can't take _table.
+_bell_very hot _cannot be taken.
+_water slips through _ fingers.
+_chests are so rusty _corroded that they crumble when _touch them.
+_rope_tied__railing.
+As _touch _rusty knife, _ sword gives a single pulse_blind_blue light.
+You'd be stabbed in _back first.
+Sadly for you, _robber collapsed on top__bag. Try_to take it would wake him.
+_bag will be taken over his dead body.
+A force keeps _from tak__bodies.
+_rug_extremely heavy _cannot be carried.
+_nails, deeply imbedded in _door, cannot be removed.
+It_an integral part__control panel.
+_mirror_many times _ size. Give up.
+A ghost appears in _room _is appalled at _ desecration__remains_a fellow adventurer. He casts a curse on _ valuables _banishes them__L_of _Liv_Dead. _ghost leaves, mutter_obscenities.
+It would be a good trick.
+: 
+_can't. It's not a very good chalice,_it?
+It won't fit through _grating.
+It won't go through.
+It goes through _grat_into _darkness below.
+It falls into _slide _is gone.
+It falls into _slide.
+T_ isn't any water _!
+_should get in _boat then launch it.
+It floats for a moment, then sinks.
+It splashes into _water _is gone forever.
+_can't put anyth_into that!
+Your sword_no longer glowing.
+Your sword has begun_glow very brightly.
+_lamp appears a bit dimmer.
+_lamp_definitely dimmer now.
+_lamp_nearly out.
+_flames flicker wildly _appear_dance. _earth beneath _ feet trembles, __ legs nearly buckle beneath you. _spirits cower at _ unearthly power.
+_candles grow shorter.
+_candles are becom_quite short.
+_candles won't last long now.
+You'd better have more light than from _candles.
+_boat ignites _it, any contents it may have had, __candles are destroyed.
+_nest ignites _it, any contents it may have had, __candles are destroyed.
+A gust_wind blows out _ candles!
+_boat lifts gently out__mud _is now float_on _reservoir.
+_are lifted up by _ris_river! _try_swim, but _currents are too strong. _come closer, closer__awesome structure_Flood Control Dam #3. _dam beckons_you. _roar__water nearly deafens you, but _remain conscious as _tumble over _dam toward _ certain doom among _rocks at its base.
+A sound, like that_flow_water, starts_come from below.
+All_a sudden, an alarmingly loud roar_sound fills _room. Filled _ fear, _scramble away.||
+_notice that _water level has risen__point that it_impossible_cross.
+_water level has dropped__point at which _boat can no longer stay afloat. It sinks into _mud.
+_roar_rush_water_quieter now.
+_water level_now quite low _ __could easily cross over__other side.
+It_unbearably loud _, _ an ear-splitt_roar seem_to come from all around you. T__a pound_in _ head which won't stop. With a tremendous effort, _scramble out__room.||
+_water level __now 
+up__ ankles.
+up__ shin.
+up__ knees.
+up__ hips.
+up__ waist.
+up__ chest.
+up__ neck.
+over _ head.
+high in _ lungs.
+I'm afraid _have done drowned _self.
+_ris_water carries _boat over _dam, down _river, _over _falls. Tsk, tsk.
+It seems that someth_pointy didn't agree _ _boat, as evidenced by _loud hiss_noise issu_t_from. With a pathetic sputter, _boat deflates, leav___out.
+Another pathetic sputter, this time from you, heralds _ drowning.
+In other words, fight__fierce currents__Frigid River. _manage_hold _ own for a bit, but then _are carried over a waterfall _into some nasty rocks. Ouch!
+_notice someth_funny about _feel__buoy.
+Unfortunately, _magic boat doesn't provide protection from _rocks _boulders one meets at _bottom_waterfalls. Includ_this one.
+_flow__river carries _downstream.||
+    Fweep!|    Fweep!|    Fweep!|_bat grabs _by _scruff__ neck _lifts _away....||
+With _leaves moved, a grat_is revealed.
+How sad for an aspir_adventurer_light a match in a room which reeks_gas. Fortunately, t__justice in _world.
+Oh dear. It appears that _smell com_from this room was coal gas. I would have thought twice about carry_flam_objects in _.
+|      ** BOOOOOOOOOOOM **
+_match has gone out.
+_tension_this ceremony_broken, __wraiths, amused but shaken at _ clumsy attempt, resume their hideous jeering.
+_bell appears_have cooled down.
+_slag was rather insubstantial, _crumbles into dust at _ touch.
+As _enter _dome _feel a strong pull as if from a wind draw__over _rail__down.||
+It falls__ground.
+They fall__ground.
+_nest falls__ground, __egg spills out_it, seriously damaged.
+_egg falls__ground _springs open, seriously damaged.
+_hear in _distance _chirp_of a song bird.
+_water spills__floor _evaporates.
+_cyclops seems somewhat agitated.
+_cyclops appears_be gett_more agitated.
+_cyclops_mov_about _room, look_for something.
+_cyclops was look_for salt _pepper. No doubt they are condiments for his upcom_snack.
+_cyclops_mov_toward _in an unfriendly manner.
+_have two choices: 1. Leave  2. Become dinner.
+_cyclops, tired_all__ games _trickery, grabs _firmly. As he licks his chops, he says "Mmm. Just like Mom used_make 'em." It's nice_be appreciated.
+[Your score just went up by 
+ point.]
+ points.]
+An almost inaudible voice whispers in _ ear, "Look__ treasures for _final secret."
+Master Adventurer.
+Wizard.
+Master.
+Adventurer.
+Junior Adventurer.
+Novice Adventurer.
+Amateur Adventurer.
+Beginner.
+|_scored 
+Your score_
+ points out_a maximum_
+, us_
+|That gives _a rank_
+Please type _ command.
+Two or more words in that sentence are not in my vocabulary.
+_word "
+"_not in my vocabulary.
+_must specify a word after "oops".
+_may only specify one word after "oops".
+Oopsception!
+T__no word_correct.
+_can only use "oops"_correct a single word.
+It's empty.
+You're carrying:
+You're not carry_anything.
+It_pitch black. _are likely_be eaten by a grue.
+Restore from 
+Save_
+which file? (0-
+; default=0; q_cancel)
+*** Restore cancelled. ***
+*** Save cancelled. ***
+Saved game exists. Overwrite?
+Please answer yes or no.
+*** Saved game not found. ***
+Sav_is not available in this version.
+*** Save failed. ***
+*** Save successful. ***
+Restor_is not available in this version.
+*** Restore failed. ***
+*** Restore successful. ***
+I'm not sure what you're referr_to _ one or more_those nouns.
+I didn't recognize one or more_those nouns, or _didn't specify one.
+_need_be more specific _ one or more_those nouns.
+_can't take anyth_out_that.
+: _can't see that _.
+_need_open it first.
+_can't take anyth_out_that!
+_need_be more specific about at least one_those objects.
+At least one_those objects can't be taken!
+_can't take that!
+: You'll have_get out_it first!
+: That's not on it.
+: That's not inside_it.
+_can't take that.
+Your load_too heavy
+, especially in light__ condition.
+You're hold_too many things already!
+You're already hold_at least one_those objects!
+Please use a comma or _word "and" between nouns.
+T_ was noth_to take.
+You're already hold_that!
+_can't see that _.
+You're not hold_at least one_those objects!
+_need_specify a container.
+You're not inside that.
+It won't hold any more!
+T_ was noth_to put on it.
+T_ was noth_to put into it.
+T_ was noth_to drop.
+You're not hold_that!
+But it would disappear from reality!
+_can't 
+_look fairly ordinary.
+It's lit.
+It's closed.
+_can't give someth_to that!
+Do _want_restart _game?
+Do _want_quit now?
+_can't open that!
+_can't close that!
+_can't look inside that!
+_can't empty that!
+: Dropped.
+It's already empty.
+_find it.
+You're around _ somew_...
+It's right _.
+_have it.
+Beats me.
+_can't look inside that.
+_can't look through that.
+_can't get on that!
+You're not on that!
+That does not sound very appetizing!
+_can't drink that!
+_can't wear that!
+_aren't wear_that!
+_can't play that!
+_can't sleep on that!
+_can't raise that.
+_can't lower that.
+_can't go inside that!
+_aren't in that!
+_can't r_that!
+_can't wind that!
+_can't climb that!
+_can't climb up that!
+_can't climb down that!
+_can't slide up that!
+_can't slide down that!
+_can't climb through that!
+It makes no sound.
+_can't cross that!
+What a bizarre concept!
+_aren't hold_it.
+I didn't recognize a verb in that sentence.
+I couldn't find a direction_go in that sentence.
+Now us_brief descriptions.
+Now us_verbose descriptions.||
+Now us_superbrief descriptions.
+Zzz.
+It_too dark_see anything.
+T_ was no comm_to repeat.
+|Do _want_restart, restore or exit?
+Someone carry_a large bag_casually lean_against one__walls _. He does not speak, but it_clear from his aspect that _bag will be taken only over his dead body.
+_feel a light finger-touch, _turning, notice a grinn_figure hold_a large bag in one h__a stiletto in _other.
+Your opponent, determin_discretion_be _better part_valor, decides_terminate this little contretemps. With a rueful nod_his head, he steps backward into _gloom _disappears.
+_holder__large bag just left, look_disgusted. Fortunately, he took nothing.
+A seedy-look_individual _ a large bag just wandered through _room. On _way through, he quietly abstracted some valuables from 
+_room
+_ possession
+, mumbl_someth_about "Do_unto others before..."
+_thief seems_have left _in _dark.
+_thief just left, still carry_his large bag. _may not have noticed that he 
+appropriated _valuables in _room.
+robbed _blind first.
+_thief, find_noth_of value, left disgusted.
+A "lean _hungry" gentleman just wandered through, carry_a large bag. Find_noth_of value, he left disgruntled.
+_robber, rummag_through his bag, dropped a few items he found valueless.
+_hear, off in _distance, someone say_"My, I wonder what this fine item_do__."
+_suddenly notice that someth_vanished.
+stiletto
+bloody axe
+sword
+nasty knife
+rusty knife
+troll
+thief
+cyclops
+Your 
+ misses _
+ by an inch.
+A good slash, but it misses _
+ by a mile.
+_charge, but _
+ jumps nimbly aside.
+Clang! Crash! _
+ parries.
+A quick stroke, but _
+_on guard.
+A good stroke, but it's too slow; _
+ dodges.
+ crashes down, knock__
+ into dreamland.
+_battered into unconsciousness.
+A furious exchange, __
+_knocked out!
+_haft__ 
+ knocks out _
+It's curtains for _
+ as _ 
+ removes his head.
+_fatal blow strikes _
+ square in _heart: He dies.
+ takes a fatal blow _slumps__floor dead.
+_struck on _arm; blood begins_trickle down.
+ pinks _
+ on _wrist, but it's not serious.
+Your stroke lands, but it was only _flat__blade.
+_blow lands, mak_a shallow gash in _
+'s arm!
+ receives a deep gash in his side.
+A savage blow on _thigh! _
+_stunned but can still fight!
+Slash! Your blow lands! That one hit an artery, it could be serious!
+Slash! Your stroke connects! This could be serious!
+_staggered, _drops_his knees.
+_momentarily disoriented _can't fight back.
+_force__ blow knocks _
+ back, stunned.
+_confused _can't fight back.
+_quickness__ thrust knocks _
+'s weapon_knocked__floor, leav_him unarmed.
+_disarmed by a subtle feint past his guard.
+Unused
+_troll swings his axe, but it misses.
+_troll's axe barely misses _ ear.
+_axe sweeps past as _jump aside.
+_axe crashes against _rock, throw_sparks!
+_flat__troll's axe hits _delicately on _head, knock__out.
+_troll neatly removes _ head.
+_troll's axe stroke cleaves _from _nave__chops.
+_troll's axe removes _ head.
+_axe gets _right in _side. Ouch!
+_flat__troll's axe skins across _ forearm.
+_troll's sw_almost knocks _over as _barely parry in time.
+_troll swings his axe, _it nicks _ arm as _dodge.
+_troll charges, _his axe slashes _on _ 
+ arm.
+An axe stroke makes a deep wound in _ leg.
+_troll's axe swings down, gash__ shoulder.
+_troll hits __ a glanc_blow, __are momentarily stunned.
+_troll swings; _blade turns on _ armor but crashes broadside into _ head.
+_stagger back under a hail_axe strokes.
+_troll's mighty blow drops _to _ knees.
+_axe hits _ 
+ _knocks it spinning.
+_troll swings, _parry, but _force_his blow knocks _ 
+ away.
+_axe knocks _ 
+ out__ hand. It falls__floor.
+_troll hesitates, finger_his axe.
+_troll scratches his head ruminatively:  Might _be magically protected, he wonders?
+Conquer_his fears, _troll puts _to death.
+_thief stabs nonchalantly _ his stiletto _misses.
+_dodge as _thief comes in low.
+_parry a lightn_thrust, __thief salutes __ a grim nod.
+_thief tries_sneak past _ guard, but _twist away.
+Shift_in _midst_a thrust, _thief knocks _unconscious _ _haft_his stiletto.
+_thief knocks _out.
+Finish__off, _thief inserts his blade into _ heart.
+_thief comes in from _side, feints, _inserts _blade into _ ribs.
+_thief bows formally, raises his stiletto, __ a wry grin, ends _battle __ life.
+A quick thrust pinks _ left arm, _blood starts_trickle down.
+_thief draws blood, rak_his stiletto across _ arm.
+_stiletto flashes faster than _can follow, _blood wells from _ leg.
+_thief slowly approaches, strikes like a snake, _leaves _wounded.
+_thief strikes like a snake! _result_wound_serious.
+_thief stabs a deep cut in _ upper arm.
+_stiletto touches _ forehead, __blood obscures _ vision.
+_thief strikes at _ wrist, _suddenly _ grip_slippery _ blood.
+_butt_his stiletto cracks _on _skull, __stagger back.
+_thief rams _haft_his blade into _ stomach, leav__out_breath.
+_thief attacks, __fall back desperately.
+A long, theatrical slash. _catch it on _ 
+, but _thief twists his knife, __
+ goes flying.
+_thief neatly flips _ 
+ out__ hands, _it drops__floor.
+_parry a low thrust, __ 
+ slips out__ hand.
+_thief, a man_superior breeding, pauses for a moment_consider _propriety_finish__off.
+_thief amuses himself by search__ pockets.
+_thief entertains himself by rifl__ pack.
+_thief, forgett_his essentially genteel upbringing, cuts _ throat.
+_thief, a pragmatist, dispatches _as a threat_his livelihood.
+_Cyclops misses, but _backwash almost knocks _over.
+_Cyclops rushes you, but runs into _wall.
+_Cyclops sends _crash_to _floor, unconscious.
+_Cyclops breaks _ neck _ a massive smash.
+A quick punch, but it was only a glanc_blow.
+A glanc_blow from _Cyclops' fist.
+_monster smashes his huge fist into _ chest, break_several ribs.
+_Cyclops almost knocks _wind out___ a quick punch.
+_Cyclops lands a punch that knocks _wind out_you.
+Heedless__ weapons, _Cyclops tosses _against _rock wall__room.
+_Cyclops grabs _ 
+, tastes it, _throws it__ground in disgust.
+_monster grabs _on _wrist, squeezes, __drop _ 
+ in pain.
+_Cyclops seems unable_decide whether_broil or stew his dinner.
+_Cyclops, no sportsman, dispatches his unconscious victim.
+It appears that that last blow was too much for you. I'm afraid _are dead.
+ slowly regains his feet.
+Fortunately, _still have a 
+_troll, angered _humiliated, recovers his weapon. He appears_have an axe_grind _ you.
+_troll, disarmed, cowers in terror, plead_for his life in _guttural tongue__trolls.
+_robber, somewhat surprised at this turn_events, nimbly retrieves his stiletto.
+_chalice_now safe_take.
+His booty remains.
+_troll stirs, quickly resum_a fight_stance.
+_robber revives, briefly feign_continued unconsciousness, and, when he sees his moment, scrambles away from you.
+Almost as soon as _
+ breathes his last breath, a cloud_sinister black fog envelops him, _when _fog lifts, _carcass has disappeared.
+_are still recover_from that last blow, so _ attack_ineffective.
+Well, _really did it that time. Is suicide painless?
+Attack_that_pointless.
+unconscious 
+unarmed 
+ cannot defend himself: He dies.
+_hear a scream_anguish as _violate _robber's hideaway. Us_passages unknown_you, he rushes_its defense.
+_thief gestures mysteriously, __treasures in _room suddenly vanish.
+
+West_House
+Stone Barrow^_are stand_in front_a massive barrow_stone. In _east face_a huge stone door which_open. _cannot see into _dark__tomb.
+North_House^_are fac__north side_a white house. T__no door _, _all _windows are boarded up. To _north a narrow path winds through _trees.
+South_House^_are fac__south side_a white house. T__no door _, _all _windows are boarded.
+Behind House
+Forest^This_a forest, _ trees in all directions. To _east, t_ appears_be sunlight.
+Forest^This_a dimly lit forest, _ large trees all around.
+Forest^_forest thins out, reveal_impassable mountains.
+Forest^This_a dimly lit forest, _ large trees all around.
+Forest Path^This_a path wind_through a dimly lit forest. _path heads north-south _. One particularly large tree _ some low branches stands at _edge__path.
+Up a Tree
+Clearing
+Clearing^_are in a small clear_in a well marked forest path that extends__east _west.
+Kitchen
+Attic
+Liv_Room
+Cellar^_are in a dark _damp cellar _ a narrow passageway lead_north, _a crawlway__south. On _west__bottom_a steep metal ramp which_unclimbable.
+_Troll Room^This_a small room _ passages__east _south _a forbidd_hole lead_west. Bloodstains _deep scratches (perhaps made by an axe) mar _walls.
+East_Chasm^_are on _east edge_a chasm, _bottom_which cannot be seen. A narrow passage goes north, __path _are on continues__east.
+Gallery^This_an art gallery. Most__paintings have been stolen by vandals _ exceptional taste. _vandals left through either _north or west exits.
+Studio^This appears_have been an artist's studio. _walls _floors are splattered _ paints_69 different colors. Strangely enough, noth_of value_hang__. At _south end__room_an open door (also covered _ paint). A dark _narrow chimney leads up from a fireplace; although _might be able_get up it, it seems unlikely _could get back down.
+Maze^This_part_a maze_twisty little passages, all alike.
+Maze^This_part_a maze_twisty little passages, all alike.
+Maze^This_part_a maze_twisty little passages, all alike.
+Maze^This_part_a maze_twisty little passages, all alike.
+Dead End^_have come_a dead end in _maze.
+Maze^This_part_a maze_twisty little passages, all alike. A skeleton, probably _remains_a luckless adventurer, lies _.
+Dead End^_have come_a dead end in _maze.
+Maze^This_part_a maze_twisty little passages, all alike.
+Maze^This_part_a maze_twisty little passages, all alike.
+Maze^This_part_a maze_twisty little passages, all alike.
+Dead End^_have come_a dead end in _maze.
+Maze^This_part_a maze_twisty little passages, all alike.
+Maze^This_part_a maze_twisty little passages, all alike.
+Maze^This_part_a maze_twisty little passages, all alike.
+Grat_Room
+Maze^This_part_a maze_twisty little passages, all alike.
+Dead End^_have come_a dead end in _maze.
+Maze^This_part_a maze_twisty little passages, all alike.
+Maze^This_part_a maze_twisty little passages, all alike.
+Maze^This_part_a maze_twisty little passages, all alike.
+Cyclops Room
+Strange Passage^This_a long passage. To _west_one entrance. On _east t__an old wooden door, _ a large open_in it (about cyclops sized).
+Treasure Room^This_a large room, whose east wall_solid granite. A number_discarded bags, which crumble at _ touch, are scattered about on _floor. T__an exit down a staircase.
+Reservoir South
+Reservoir
+Reservoir North
+Stream View^_are stand_on a path beside a gently flow_stream. _path follows _stream, which flows from west_east.
+Stream^_are on _gently flow_stream. _upstream route_too narrow_navigate, __downstream route_invisible due_twist_walls. T__a narrow beach_l_on.
+Mirror Room
+Mirror Room
+Cave^This_a tiny cave _ entrances west _north, _a staircase lead_down.
+Cave^This_a tiny cave _ entrances west _north, _a dark, forbidd_staircase lead_down.
+Cold Passage^This_a cold _damp corridor w_ a long east-west passageway turns into a southward path.
+Narrow Passage^This_a long _narrow corridor w_ a long north-south passageway briefly narrows even further.
+Wind_Passage^This_a wind_passage. It seems that t_ are only exits on _east _north.
+Twist_Passage^This_a wind_passage. It seems that t_ are only exits on _east _north.
+Atlantis Room^This_an ancient room, long under water. T__an exit__south _a staircase lead_up.
+East-West Passage^This_a narrow east-west passageway. T__a narrow stairway lead_down at _north end__room.
+Round Room^This_a circular stone room _ passages in all directions. Several_them have unfortunately been blocked by cave-ins.
+Deep Canyon
+Damp Cave^This cave has exits__west _east, _narrows_a crack toward _south. _earth_particularly damp _.
+Loud Room
+North-South Passage^This_a high north-south passage, which forks__northeast.
+Chasm^A chasm runs southwest_northeast __path follows it. _are on _south side__chasm, w_ a crack opens into a passage.
+Entrance_Hades^_are outside a large gateway, on which_inscribed||  Abandon every hope all ye who enter _!||_gate_open; through it _can see a desolation, _ a pile_mangled bodies in one corner. Thousands_voices, lament_some hideous fate, can be heard.
+L_of _Dead^_have entered _L_of _Liv_Dead. Thousands_lost souls can be heard weep__moaning. In _corner are stacked _remains_dozens_previous adventurers less fortunate than _self. A passage exits__north.
+Engravings Cave^_have entered a low cave _ passages lead_northwest _east.
+Egyptian Room^This_a room which looks like an Egyptian tomb. T__an ascend_staircase__west.
+Dome Room
+Torch Room
+Temple^This__north end_a large temple. On _east wall_an ancient inscription, probably a prayer in a long-forgotten language. Below _prayer_a staircase lead_down. _west wall_solid granite. _exit__north end__room_through huge marble pillars.
+Altar^This__south end_a large temple. In front__is what appears_be an altar. In one corner_a small hole in _floor which leads into darkness. _probably could not get back up it.
+Dam
+Dam Lobby^This room appears_have been _wait_room for groups tour__dam. T_ are open doorways ___north _east marked "Private", _t__a path lead_south over _top__dam.
+Maintenance Room^This_what appears_have been _maintenance room for Flood Control Dam #3. Apparently, this room has been ransacked recently, for most__valuable equipment_gone. On _wall in front__is a group_buttons colored blue, yellow, brown, _red. T_ are doorways__west _south.
+Dam Base^_are at _base_Flood Control Dam #3, which looms above __to _north. _river Frigid_flow_by _. Along _river are _White Cliffs which seem_form giant walls stretch_from north_south along _shores__river as it winds its way downstream.
+Frigid River^_are on _Frigid River in _vicinity__Dam. _river flows quietly _. T__a land_on _west shore.
+Frigid River^_river turns a corner _ mak_it impossible_see _Dam. _White Cliffs loom on _east bank _large rocks prevent land_on _west.
+Frigid River^_river descends _ into a valley. T__a narrow beach on _west shore below _cliffs. In _distance a faint rumbl_can be heard.
+White Cliffs Beach^_are on a narrow strip_beach which runs along _base__White Cliffs. T__a narrow path head_south along _Cliffs _a tight passage lead_west into _cliffs themselves.
+White Cliffs Beach^_are on a rocky, narrow strip_beach beside _Cliffs. A narrow path leads north along _shore.
+Frigid River^_river_runn_faster _ __sound ahead appears_be that_rush_water. On _east shore_a sandy beach. A small area_beach can also be seen below _cliffs on _west shore.
+Frigid River^_sound_rush_water_nearly unbearable _. On _east shore_a large land_area.
+Shore^_are on _east shore__river. _water _ seems somewhat treacherous. A path travels from north_south _, _south end quickly turn_around a sharp corner.
+Sandy Beach^_are on a large sandy beach on _east shore__river, which_flow_quickly by. A path runs beside _river__south _, _a passage_partially buried in s_to _northeast.
+Sandy Cave^This_a sand-filled cave whose exit_to _southwest.
+Aragain Falls
+On _Rainbow^_are on top_a rainbow (I bet _never thought _would walk on a rainbow), _ a magnificent view__Falls. _rainbow travels east-west _.
+End_Rainbow^_are on a small, rocky beach on _continuation__Frigid River past _Falls. _beach_narrow due__presence__White Cliffs. _river canyon opens _ _sunlight shines in from above. A rainbow crosses over _falls__east _a narrow path continues__southwest.
+Canyon Bottom^_are beneath _walls__river canyon which may be climbable _. _lesser part__runoff_Aragain Falls flows by below. To _north_a narrow path.
+Rocky Ledge^_are on a ledge about halfway up _wall__river canyon. _can see from _ that _main flow from Aragain Falls twists along a passage which it_impossible for _to enter. Below _is _canyon bottom. Above _is more cliff, which appears climbable.
+Canyon View^_are at _top__Great Canyon on its west wall. From _ t__a marvelous view__canyon _parts__Frigid River upstream. Across _canyon, _walls__White Cliffs join _mighty ramparts__Flathead Mountains__east. Follow__Canyon upstream__north, Aragain Falls may be seen, complete _ rainbow. _mighty Frigid River flows out from a great dark cavern. To _west _south can be seen an immense forest, stretch_for miles around. A path leads northwest. It_possible_climb down into _canyon from _.
+Mine Entrance^_are stand_at _entrance_what might have been a coal mine. _shaft enters _west wall, _t__another exit on _south end__room.
+Squeaky Room^_are in a small room. Strange squeaky sounds may be heard com_from _passage at _north end. _may also escape__east.
+Bat Room^_are in a small room which has doors only__east _south.
+Shaft Room^This_a large room, in _middle_which_a small shaft descend_through _floor into darkness below. To _west __north are exits from this room. Constructed over _top__shaft_a metal framework_which a heavy iron chain_attached.
+Smelly Room^This_a small nondescript room. However, from _direction_a small descend_staircase a foul odor can be detected. To _south_a narrow tunnel.
+Gas Room^This_a small room which smells strongly_coal gas. T__a short climb up some stairs _a narrow tunnel lead_east.
+Ladder Top^This_a very small room. In _corner_a rickety wooden ladder, lead_downward. It might be safe_descend. T__also a staircase lead_upward.
+Ladder Bottom^This_a rather wide room. On one side__bottom_a narrow wooden ladder. To _west __south are passages leav__room.
+Dead End^_have come_a dead end in _mine.
+Timber Room^This_a long _narrow passage, which_cluttered _ broken timbers. A wide passage comes from _east _turns at _west end__room into a very narrow passageway. From _west comes a strong draft.
+Drafty Room^This_a small drafty room in which__bottom_a long shaft. To _south_a passageway _to _east a very narrow passage. In _shaft can be seen a heavy iron chain.
+Machine Room
+Coal Mine^This_a nondescript part_a coal mine.
+Coal Mine^This_a nondescript part_a coal mine.
+Coal Mine^This_a nondescript part_a coal mine.
+Coal Mine^This_a nondescript part_a coal mine.
+Slide Room^This_a small chamber, which appears_have been part_a coal mine. On _south wall__chamber _letters "Granite Wall" are etched in _rock. To _east_a long passage, _t__a steep metal slide twist_downward. To _north_a small opening.
+_can't go that way.
+_door_boarded __can't remove _boards.
+_windows are all boarded.
+_would need a machete_go further west.
+T__no tree _ suitable for climbing.
+_forest becomes impenetrable__north.
+_mountains are impassable.
+Storm-tossed trees block _ way.
+_rank undergrowth prevents eastward movement.
+_cannot climb any higher.
+_try_ascend _ramp, but it_impossible, __slide back down.
+_chasm probably leads straight__infernal regions.
+_dam blocks _ way.
+_stream emerges from a spot too small for _to enter.
+_channel_too narrow.
+It_too narrow for most insects.
+Are _out__ mind?
+_cannot reach _rope.
+_White Cliffs prevent _ land__.
+_cannot go upstream due_strong currents.
+Just in time _steer away from _rocks.
+It's a long way...
+_wouldn't fit _would die if _could.
+nothing^Noth_is _.^Noth_is _.
+you^_are _.^_are _.
+
+
+
+
+
+a basket^From _chain_suspended a basket.^From _chain_suspended a basket.
+a basket^At _end__chain_a basket.^At _end__chain_a basket.
+a trophy case^T__a trophy case _.^T__a trophy case _.
+a machine^T__a machine _.^T__a machine _.
+a small mailbox^T__a small mailbox _.^T__a small mailbox _.
+a kitchen table^T__a kitchen table _.^T__a kitchen table _.
+an attic table^T__an attic table _.^T__an attic table _.
+a quantity_water^T__a quantity_water _.^T__a quantity_water _.
+a crystal skull^Ly_in one corner__room_a beautifully carved crystal skull. It appears_be grinn_at _rather nastily.^T__a crystal skull _.
+a broken timber^T__a broken timber _.^T__a broken timber _.
+a lunch^A hot pepper sandwich__.^A hot pepper sandwich__.
+a brass bell^T__a brass bell _.^T__a brass bell _.
+a red hot brass bell^On _ground_a red hot bell.^On _ground_a red hot bell.
+a black book^On _altar_a large black book, open_page 569.^T__a black book _.
+a bloody axe^T__a bloody axe _.^T__a bloody axe _.
+a broken lantern^T__a broken lantern _.^T__a broken lantern _.
+a sceptre^A sceptre, possibly that_ancient Egypt itself,_in _coffin. _sceptre_ornamented _ colored enamel, _tapers_a sharp point.^An ornamented sceptre, taper_to a sharp point,__.
+a brown sack^On _table_an elongated brown sack, smell_of hot peppers.^T__a brown sack _.
+a chalice^T__a silver chalice, intricately engraved, _.^T__a silver chalice, intricately engraved, _.
+a clove_garlic^T__a clove_garlic _.^T__a clove_garlic _.
+a crystal trident^On _shore lies Poseidon's own crystal trident.^T__a crystal trident _.
+a glass bottle^A bottle_sitt_on _table.^T__a glass bottle _.
+a gold coffin^_solid-gold coffin used for _burial_Ramses II__.^_solid-gold coffin used for _burial_Ramses II__.
+a hand-held air pump^T__a hand-held air pump _.^T__a hand-held air pump _.
+a huge diamond^T__an enormous diamond (perfectly cut) _.^T__an enormous diamond (perfectly cut) _.
+a jade figurine^T__an exquisite jade figurine _.^T__an exquisite jade figurine _.
+a nasty knife^On a table_a nasty-look_knife.^T__a nasty knife _.
+a burned-out lantern^_deceased adventurer's useless lantern__.^T__a burned-out lantern _.
+a leather bag_coins^An old leather bag, bulg__ coins,__.^An old leather bag, bulg__ coins,__.
+
+a large emerald^T__a large emerald _.^T__a large emerald _.
+a leaflet^A small leaflet_on _ground.^A small leaflet_on _ground.
+
+a matchbook^T__a matchbook whose cover says "Visit Beautiful FCD#3" _.^T__a matchbook whose cover says "Visit Beautiful FCD#3" _.
+a painting^Fortunately, t__still one chance for _to be a vandal, for on _far wall_a paint_of unparalleled beauty.^A paint_by a neglected genius__.
+
+a small piece_vitreous slag^T__a small piece_vitreous slag _.^T__a small piece_vitreous slag _.
+a pile_leaves^On _ground_a pile_leaves.^On _ground_a pile_leaves.
+a punctured boat^T__a punctured boat _.^T__a punctured boat _.
+a pile_plastic^T__a folded pile_plastic _ which has a small valve attached.^T__a folded pile_plastic _ which has a small valve attached.
+a platinum bar^On _ground_a large platinum bar.^On _ground_a large platinum bar.
+a pot_gold^At _end__rainbow_a pot_gold.^T__a pot_gold _.
+a red buoy^T__a red buoy _ (probably a warning).^T__a red buoy _.
+a rope^A large coil_rope_ly_in _corner.^T__a rope _.
+a rusty knife^Beside _skeleton_a rusty knife.^T__a rusty knife _.
+a sapphire-encrusted bracelet^T__a sapphire-encrusted bracelet _.^T__a sapphire-encrusted bracelet _.
+a group_tool chests^T__a group_tool chests _.^T__a group_tool chests _.
+a screwdriver^T__a screwdriver _.^T__a screwdriver _.
+a skeleton key^T__a skeleton key _.^T__a skeleton key _.
+a shovel^T__a shovel _.^T__a shovel _.
+a small pile_coal^T__a small pile_coal _.^T__a small pile_coal _.
+a beautiful jeweled scarab^T__a beautiful jeweled scarab _.^T__a beautiful jeweled scarab _.
+a large bag^T__a large bag _.^T__a large bag _.
+a stiletto^T__a stiletto _.^T__a stiletto _.
+a sword^Above _trophy case hangs an elvish sword_great antiquity.^T__a sword _.
+an ancient map^In _trophy case_an ancient parchment which appears_be a map.^T__an ancient map _.
+a tan label^T__a tan label _.^T__a tan label _.
+a torch^Sitt_on _pedestal_a flam_torch, made_ivory.^T__a torch _.
+a tour guidebook^Some guidebooks entitled "Flood Control Dam #3" are on _reception desk.^T__a tour guidebook _.
+a trunk_jewels^Ly_half buried in _mud_an old trunk, bulg__ jewels.^T__an old trunk _, bulg__ assorted jewels.
+a tube^T__an object which looks like a tube_toothpaste _.^T__an object which looks like a tube_toothpaste _.
+a viscous material^T__a viscous material _.^T__a viscous material _.
+a ZORK owner's manual^Loosely attached_a wall_a small piece_paper.^T__a ZORK owner's manual _.
+a wrench^T__a wrench _.^T__a wrench _.
+a bird's nest^Beside _on _branch_a small bird's nest.^T__a bird's nest _.
+a jewel-encrusted egg^In _bird's nest_a large egg encrusted _ precious jewels, apparently scavenged by a childless songbird. _egg_covered _ fine gold inlay, _ornamented in lapis lazuli _mother-of-pearl. Unlike most eggs, this one_hinged _closed _ a delicate look_clasp. _egg appears extremely fragile.^T__a jewel-encrusted egg _.
+a broken jewel-encrusted egg^T__a somewhat ruined egg _.^T__a somewhat ruined egg _.
+a beautiful brass bauble^T__a beautiful brass bauble _.^T__a beautiful brass bauble _.
+a golden clockwork canary^T__a golden clockwork canary nestled in _egg. It has ruby eyes _a silver beak. Through a crystal window below its left w__can see intricate machinery inside. It appears_have wound down.^T__a golden clockwork canary _.
+a broken clockwork canary^T__a golden clockwork canary nestled in _egg. It seems_have recently had a bad experience. _mountings for its jewel-like eyes are empty, _its silver beak_crumpled. Through a cracked crystal window below its left w__can see _remains_intricate machinery. It_not clear what result wind_it would have, as _mainspr_seems sprung.^T__a broken clockwork canary _.
+a wall _ engravings^T_ are old engravings on _walls _.^T_ are old engravings on _walls _.
+a zorkmid^T__a zorkmid _.^T__a zorkmid _.
+a lurk_grue^T__a lurk_grue _.^T__a lurk_grue _.

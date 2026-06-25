@@ -1308,21 +1308,21 @@ void DoMiscWithTo_inflate_fill_inflatable_boat(int with_to)
 
 
 
-void DoMiscWithTo_inflate_fill_inflated_boat(int /* with_to */ )
+void DoMiscWithTo_inflate_fill_inflated_boat(int with_to __attribute__((unused)))
 {
   PrintLine("Inflating it further would probably burst it.");
 }
 
 
 
-void DoMiscWithTo_inflate_fill_punctured_boat(int /* with_to */ )
+void DoMiscWithTo_inflate_fill_punctured_boat(int with_to __attribute__((unused)))
 {
   PrintLine("No chance. Some moron punctured it.");
 }
 
 
 
-void DoMiscWithTo_deflate_inflated_boat(int /* with_to */ )
+void DoMiscWithTo_deflate_inflated_boat(int with_to __attribute__((unused)))
 {
   if (YouAreInBoat) {PrintLine("You can't deflate the boat while you're in it."); return;}
 
@@ -1339,14 +1339,14 @@ void DoMiscWithTo_deflate_inflated_boat(int /* with_to */ )
 
 
 
-void DoMiscWithTo_deflate_inflatable_boat(int /* with_to */ )
+void DoMiscWithTo_deflate_inflatable_boat(int with_to __attribute__((unused)))
 {
   PrintLine("It's already deflated.");
 }
 
 
 
-void DoMiscWithTo_deflate_punctured_boat(int /* with_to */ )
+void DoMiscWithTo_deflate_punctured_boat(int with_to __attribute__((unused)))
 {
   PrintLine("It's already deflated.");
 }
@@ -1983,21 +1983,21 @@ void DoMiscWithTo_activate_front_door     (int with_to) {BurnObj(FOBJ_FRONT_DOOR
 
 
 
-void DoMiscWithTo_activate_torch(int /* with_to */ )
+void DoMiscWithTo_activate_torch(int with_to __attribute__((unused)))
 {
   PrintLine("It's already burning.");
 }
 
 
 
-void DoMiscWithTo_deactivate_torch(int /* with_to */ )
+void DoMiscWithTo_deactivate_torch(int with_to __attribute__((unused)))
 {
   PrintLine("You nearly burn your hand trying to extinguish the flame.");
 }
 
 
 
-void DoMiscWithTo_turn_book(int /* with_to */ )
+void DoMiscWithTo_turn_book(int with_to __attribute__((unused)))
 {
   PrintLine("Beside page 569, there is only one other page with any legible printing on it. Most of it is unreadable, but the subject seems to be the banishment of evil. Apparently, certain noises, lights, and prayers are efficacious in this regard.");
 }

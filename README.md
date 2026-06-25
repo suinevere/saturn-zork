@@ -13,7 +13,7 @@ X (aka Twitter): https://twitter.com/johannes_fetz
 
 Wikipedia: https://en.wikipedia.org/wiki/Homebrew_(video_games)#Sega_Saturn
 
-Publications:
+Publications: 
 
 * Homebrew Game Development and The Extra Lives of Consoles by Robin Wilde (ISBN: 9781399072656, 139907265X) Page 61-62, 78
 * Programación de Videojuegos Para SEGA Saturn by Rolando Fernández Benavidez (ISBN: 9801509687)
@@ -23,3 +23,11 @@ Online articles:
 * Entretien avec Johannes Fetz à propos de jo-engine : https://linuxfr.org/news/entretien-avec-johannes-fetz-a-propos-de-jo-engine
 * Jo Sega Saturn Engine - pour développer des jeux sans crise de nerfs https://www.rom-game.fr/news/2150-Jo+Sega+Saturn+Engine+-+pour+developper+des+jeux+sans+crise+de+nerfs.html
 * EnginesDatabase: https://enginesdatabase.com/engine/jo_engine/
+# Zork1Cv2
+Zork 1 native port (Arduino, DOS, Windows, Linux...)
+
+This project grew out of my attempt to write a new parser for a 1980s text adventure game called Crystal Caverns. After finishing that project, I reused the code to port Zork I, the game that inspired it, to C.
+
+It is nearly complete, and is playable from beginning to end.
+
+This source code is provided for personal, educational use only. You are welcome to use this source code to develop your own works, but the story-related content belongs to the original authors of Zork.

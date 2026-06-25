@@ -464,6 +464,7 @@ int main(void)
     int left = NodePool[i].left - NodePool;
     int right = NodePool[i].right - NodePool;
 
+    if (c) left = right = 0; // leaf node: children are unused (and uninitialized)
     if (left < 0) left = 0;
     if (right < 0) right = 0;
     if (c == 0 && left == 0 && right == 0) break;

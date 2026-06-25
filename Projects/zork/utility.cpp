@@ -23,10 +23,39 @@
   #include <EEPROM.h>
   int ConsoleW = 40, ConsoleH = 24, CursorColumn = 0, CursorRow = 0;
   uint8_t ConsoleData[40*24];
+#elif COMPILE_SATURN
+  // Sega Saturn target (Jo Engine). Uses a virtual text console (ConsoleData)
+  // rendered to a VDP2 NBG layer via jo_printf, mirroring the AVR text path.
+  #include <jo/jo.h>
+  #include <stdint.h>
+  #define SATURN_CONSOLE_W 40
+  #define SATURN_CONSOLE_H 28
+  int ConsoleW = SATURN_CONSOLE_W, ConsoleH = SATURN_CONSOLE_H, CursorColumn = 0, CursorRow = 0;
+  uint8_t ConsoleData[SATURN_CONSOLE_W*SATURN_CONSOLE_H];
+  volatile uint32_t SaturnFrameCounter = 0;
+  // Draw the whole virtual console to the screen and advance one video frame.
+  // Keyboard input is refreshed automatically each vblank by the engine.
+  void SaturnSync(void)
+  {
+    int x, y;
+    char rowbuf[SATURN_CONSOLE_W + 1];
+    for (y = 0; y < ConsoleH; y++)
+    {
+      for (x = 0; x < ConsoleW; x++)
+      {
+        uint8_t c = ConsoleData[ConsoleW*y + x];
+        rowbuf[x] = (c >= 32 && c < 127) ? (char)c : ' ';
+      }
+      rowbuf[ConsoleW] = 0;
+      jo_printf(0, y, "%s", rowbuf);
+    }
+    slSynch();
+    SaturnFrameCounter++;
+  }
 #else
   #define NO_CONIO
   int ConsoleW = 80, ConsoleH = 25, CursorColumn = 0, CursorRow = 0;
-#endif  
+#endif
 
 
 
@@ -162,7 +191,7 @@ void SetupConsole(void)
 
 
 
-#ifndef __AVR_ATmega2560__
+#if !defined(__AVR_ATmega2560__) && !defined(COMPILE_SATURN)
 
 int main(void)
 {
@@ -184,7 +213,7 @@ int main(void)
 
 
 
-#ifdef __AVR_ATmega2560__
+#if defined(__AVR_ATmega2560__) || defined(COMPILE_SATURN)
 
 
 
@@ -484,6 +513,19 @@ void MyDelay(int ms)
 #endif
 #endif
 
+#ifdef COMPILE_SATURN
+  {
+    int frames = ms / 16; // ~60 video frames per second
+    while (frames-- > 0)
+    {
+      SaturnSync();
+      if (jo_keyboard_get_char() != 0 ||
+          jo_keyboard_get_special_key() != JO_KEYBOARD_NO_SPECIAL_KEY)
+        { key_pressed = 1; break; }
+    }
+  }
+#endif
+
   if (key_pressed && AutoPlayMode)
   {
     // fast forward to end of autoplay string
@@ -580,8 +622,10 @@ void InvertScreen(void)
 
 #else
 
-void PlayTone(uint8_t /* freq */ , uint8_t /* cycles */ )
+void PlayTone(uint8_t freq, uint8_t cycles)
 {
+  (void)freq;
+  (void)cycles;
 }
 
 #endif
@@ -633,6 +677,44 @@ int GetKey(uint8_t more)
   else if (c == 29) c = -80;
   else if (c == 30) c = -75;
   else if (c == 31) c = -77;
+#elif defined(COMPILE_SATURN)
+  // Poll the Saturn keyboard. Debounce so one physical key press yields one
+  // character even though the key state is reported every video frame.
+  {
+    static unsigned char prev_held = 0;
+
+    for (;;)
+    {
+      unsigned char            ch = jo_keyboard_get_char();
+      jo_keyboard_special_key  sk = jo_keyboard_get_special_key();
+
+      if (ch == 0 && sk == JO_KEYBOARD_NO_SPECIAL_KEY)
+      {
+        prev_held = 0;   // nothing held: ready for the next press
+        SaturnSync();
+        continue;
+      }
+
+      if (prev_held)     // a key is still down from the previous press
+      {
+        SaturnSync();
+        continue;
+      }
+
+      prev_held = 1;     // newly pressed key
+
+      if (ch != 0) { c = ch; break; }
+
+      // translate special keys to the codes expected by the line editor
+           if (sk == JO_KEYBOARD_ENTER)     { c = '\n'; break; }
+      else if (sk == JO_KEYBOARD_BACKSPACE) { c = '\b'; break; }
+      else if (sk == JO_KEYBOARD_UP)        { c = -72;  break; }
+      else if (sk == JO_KEYBOARD_DOWN)      { c = -80;  break; }
+      else if (sk == JO_KEYBOARD_LEFT)      { c = -75;  break; }
+      else if (sk == JO_KEYBOARD_RIGHT)     { c = -77;  break; }
+      else { SaturnSync(); continue; } // ignore other special keys
+    }
+  }
 #else
   for (;;)
   {
@@ -1284,6 +1366,8 @@ void PrintStatusLine(void)
 
 #ifdef __AVR_ATmega2560__
     ConsoleData[i] = 128+c;
+#elif defined(COMPILE_SATURN)
+    ConsoleData[i] = (uint8_t)(c ? c : ' '); // status line occupies row 0
 #elif COMPILE_WINDOWS
     {
       char chr[2] = {(char)(c ? c : ' '), 0};
@@ -3272,7 +3356,7 @@ void DeactivateAutoPlay(void)
 
 #ifdef __AVR_ATmega2560__
 uint16_t EEPROM_Ptr;
-#else
+#elif !defined(COMPILE_SATURN)
 FILE *ReadWriteFile;
 #endif
 
@@ -3293,6 +3377,9 @@ int ReadWrite(int mode, void *p, size_t size)
       for (i=0; i<size; i++)
         *((uint8_t*)p+i) = EEPROM.read(EEPROM_Ptr++);
       return 0;
+#elif defined(COMPILE_SATURN)
+      (void)p; (void)size;
+      return 1; // saving not supported on Saturn (yet)
 #else
       return (fread(p, size, 1, ReadWriteFile) != 1);
 #endif
@@ -3302,6 +3389,9 @@ int ReadWrite(int mode, void *p, size_t size)
       for (i=0; i<size; i++)
         EEPROM.write(EEPROM_Ptr++, *((uint8_t*)p+i));
       return 0;
+#elif defined(COMPILE_SATURN)
+      (void)p; (void)size;
+      return 1; // saving not supported on Saturn (yet)
 #else
       return (fwrite(p, size, 1, ReadWriteFile) != 1);
 #endif
@@ -3357,6 +3447,9 @@ int ReadWriteSaveSlot(char *filename, int mode, int slot)
   ReadWriteSaveState(2); // count bytes
   EEPROM_Ptr *= slot;
   error = ReadWriteSaveState(mode);
+#elif defined(COMPILE_SATURN)
+  (void)filename; (void)mode; (void)slot;
+  // saving/restoring is not supported on Saturn yet; report failure
 #else
   (void)slot; // suppress unused parameter warning
   ReadWriteFile = fopen(filename, mode ? "wb" : "rb");
@@ -3409,6 +3502,8 @@ void SetRandomSeed(uint32_t seed)
   if (seed == 0)
 #ifdef __AVR_ATmega2560__
     seed = analogRead(0);
+#elif defined(COMPILE_SATURN)
+    seed = SaturnFrameCounter + 1; // entropy from how long the player took
 #else
     seed = time(NULL);
 #endif
