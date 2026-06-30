@@ -18,22 +18,22 @@ Zork1C: _text.o _vocab.o _game.o _parser.o _villains.o utility.o
 	$(CC) $(LDFLAGS) _text.o _vocab.o _game.o _parser.o _villains.o utility.o -o Zork1C
 
 
-_text.o: _text.cpp def.h
+_text.o: _text.cpp src/def.h
 	$(CC) $(CFLAGS) -c _text.cpp -o $@
 
-_vocab.o: _vocab.cpp def.h
+_vocab.o: _vocab.cpp src/def.h
 	$(CC) $(CFLAGS) -c _vocab.cpp -o $@
 
-_game.o: _game.cpp def.h _enum.h
+_game.o: _game.cpp src/def.h _enum.h
 	$(CC) $(CFLAGS) -c _game.cpp -o $@
 
-_parser.o: _parser.cpp def.h _enum.h
+_parser.o: _parser.cpp src/def.h _enum.h
 	$(CC) $(CFLAGS) -c _parser.cpp -o $@
 
-_villains.o: _villains.cpp def.h _enum.h
+_villains.o: _villains.cpp src/def.h _enum.h
 	$(CC) $(CFLAGS) -c _villains.cpp -o $@
 
-utility.o: utility.cpp def.h _enum.h
+utility.o: src/utility.cpp Projects/zork/src/def.h _enum.h
 	$(CC) $(CFLAGS) -c utility.cpp -o $@
 
 
@@ -67,14 +67,14 @@ gen_vocab_cpp: gen_vocab_cpp.o
 	$(CC) $(LDFLAGS) gen_vocab_cpp.o -o $@
 
 
-descriptions.o: descriptions.cxx def.h
+descriptions.o: src/descriptions.cxx Projects/zork/src/def.h
 	$(CC) $(CFLAGS) -c descriptions.cxx -o $@
 
-gen_enum_h.o: gen_enum_h.cxx def.h
+gen_enum_h.o: src/gen_enum_h.cxx Projects/zork/src/def.h
 	$(CC) $(CFLAGS) -c gen_enum_h.cxx -o $@
 
-gen_text_cpp.o: gen_text_cpp.cxx def.h
+gen_text_cpp.o: src/gen_text_cpp.cxx Projects/zork/src/def.h
 	$(CC) $(CFLAGS) -c gen_text_cpp.cxx -o $@
 
-gen_vocab_cpp.o: gen_vocab_cpp.cxx def.h _enum.h
+gen_vocab_cpp.o: src/gen_vocab_cpp.cxx Projects/zork/src/def.h _enum.h
 	$(CC) $(CFLAGS) -c gen_vocab_cpp.cxx -o $@
