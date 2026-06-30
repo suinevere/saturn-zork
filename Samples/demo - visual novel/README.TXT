@@ -1,1 +1,0 @@
-This demo has been kindly provided by @G_Sansigolo, the creator of "the Lighthouse of são Bento do Oeste"
